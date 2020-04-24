@@ -90,11 +90,13 @@ export default {
 .left {
 	width: 35%;
 	text-align: center;
+	margin-right: 10px;
 }
 
 .right {
 	width: 65%;
 	padding: 20px;
+	margin-left: 20px;
 }
 
 #recipe_image {
