@@ -22,8 +22,6 @@ A user should be able to:
 
 - Construct a shopping list of missing ingredients for a selected recipe.
 
-- Calculate cost of shopping list from missing ingredients.
-
 ## API's
 
 - https://developer.edamam.com/
